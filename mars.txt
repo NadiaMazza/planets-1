@@ -4,3 +4,4 @@ The Mummy will enjoy the lack of humidity.
 Will consider Venus as a base. See venus.txt for more detail. We also want to look at Jupiter.
 Mars Mars Mars Mars
 It will be hot on Mars!!
+Added another planet
